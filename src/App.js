@@ -5,7 +5,7 @@ function App() {
     const [message, setMessage] = useState('');
 
     useEffect(() => {
-        axios.get('http://localhost:3000/atualizar-previsao')
+        axios.get('http://appback.good.tec.br:3000/atualizar-previsao')
             .then(response => {
                 setMessage(response.data);
             })
