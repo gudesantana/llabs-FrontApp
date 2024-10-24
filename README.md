@@ -1,4 +1,4 @@
-**Setimo passo - Bem-vindo ao wiki do repositório!**
+**oitavo passo - Bem-vindo ao wiki do repositório!**
 
 Esse repositório ajuda no salvamento do estado do terraform e configurações de conta para os usuários colaborarem entre si com o uso do terraform.
 
